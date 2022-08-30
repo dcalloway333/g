@@ -11,7 +11,7 @@ hint = ['how something feels', 'on the mark', 'a yellow fruit', 'a word for a co
 
 dash = []
 
-l = ['Try again!', 'Take another stab!', 'Give it another shot!', 'Keep trying!', 'One more time!']
+l = ['Try again!', 'Take another jab!', 'Give it another round!', 'trying again wont hurt!', 'two more times!']
 lose = random.choice(l)
 
 w = ['Congratulations!', 'Nice Job!', 'Good Work!', 'Fantastic!', 'Well Done!']
@@ -80,3 +80,6 @@ if x == chances and '-' in dash:
 else:
     print('You Jest WON THE GAME!')
     print(''.join(win))
+
+
+# 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
